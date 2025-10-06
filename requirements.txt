@@ -1,0 +1,13 @@
+# Core dependencies
+pyshark>=0.6.0        # Network packet capture and analysis
+requests>=2.31.0      # HTTP library for API requests
+ipaddress>=1.0.23     # IP address manipulation
+
+# Optional dependencies for enhanced features
+python-dateutil>=2.8.2  # Date parsing utilities
+typing-extensions>=4.9.0  # Type hinting support for older Python versions
+
+# Development dependencies
+black>=24.1.1         # Code formatting
+pylint>=3.0.3         # Code analysis
+pytest>=8.0.0         # Testing framework
